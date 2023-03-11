@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maolaart/react.js-by-maolaart.git/static/css/main.f7142d38.css",
+    "main.js": "/maolaart/react.js-by-maolaart.git/static/js/main.d6584777.js",
+    "static/js/787.635aedaa.chunk.js": "/maolaart/react.js-by-maolaart.git/static/js/787.635aedaa.chunk.js",
+    "static/media/logo.svg": "/maolaart/react.js-by-maolaart.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/maolaart/react.js-by-maolaart.git/index.html",
+    "main.f7142d38.css.map": "/maolaart/react.js-by-maolaart.git/static/css/main.f7142d38.css.map",
+    "main.d6584777.js.map": "/maolaart/react.js-by-maolaart.git/static/js/main.d6584777.js.map",
+    "787.635aedaa.chunk.js.map": "/maolaart/react.js-by-maolaart.git/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7142d38.css",
+    "static/js/main.d6584777.js"
+  ]
+}
